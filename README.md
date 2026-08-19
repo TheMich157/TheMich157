@@ -34,9 +34,10 @@
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
 | ⚡ **MediaVault** | High-performance Instagram & TikTok media archiver, batch downloader, rotating proxy engine, and interactive Web Studio. | `Python` `FastAPI` `Docker` `Web` | [**View Repo →**](https://github.com/TheMich157/MediaVault) |
+| 🛍️ **VintedSale** | High-speed marketplace deal sniper, multi-target monitoring engine, GUI dashboard, and Discord webhook notifier. | `Python` `GUI` `Automation` `Discord` | [**View Repo →**](https://github.com/TheMich157/VintedSale) |
+| 🔆 **Matter (Govee Controller)** | Fast, local-only desktop controller & automation suite for Govee Matter/LAN smart lighting hardware. | `Electron` `Python` `JavaScript` `IoT` | [**View Repo →**](https://github.com/TheMich157/matter) |
 | 🛡️ **FireGuard Antivirus** | Endpoint threat detection and antivirus security tool. | `Python` `Security` `CLI` | [**View Repo →**](https://github.com/TheMich157/-FireGuard-Antivirus) |
 | 🌐 **NetForge-PXE** | High-throughput network booting engine and PXE server infrastructure. | `Rust` `Networking` `PXE` | [**View Repo →**](https://github.com/TheMich157/NetForge-PXE) |
-| 💡 **Govee LAN Controller** | Local LAN controller for smart IoT lighting hardware automation. | `IoT` `Hardware` `LAN` | [**View Repo →**](https://github.com/TheMich157/govee-lan-controller) |
 | 📱 **DroidServer** | Android integration backend service and communication host. | `Python` `Android` `Server` | [**View Repo →**](https://github.com/TheMich157/DroidServer) |
 | 🔍 **Face Verification** | Biometric facial verification and image processing module. | `Python` `Computer Vision` | [**View Repo →**](https://github.com/TheMich157/Face_Verification) |
 | 🎫 **Ticket Systems** | Production-ready customer support and ticket management workflow. | `JavaScript` `Node.js` `EJS` | [**View Repo →**](https://github.com/TheMich157/TICKET-System) |
@@ -61,8 +62,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Frameworks, Backends & Runtimes
+### ⚙️ Frameworks, Backends & Desktop
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
